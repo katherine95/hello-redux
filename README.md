@@ -1,5 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
+Learning React-redux using [Understanding Redux](https://medium.freecodecamp.org/understanding-redux-the-worlds-easiest-guide-to-beginning-redux-c695f45546f6)
+
 # Hello Redux
 
 This is a simple React app with the sole aim of being refactored to use Redux. Pretty basic stuff. Ideal for Absolute Redux beginners.
@@ -16,5 +18,3 @@ This is a simple React app with the sole aim of being refactored to use Redux. P
 
 3. Run the application 
 ```npm install && npm start```
-
-4. Go on and refactor to use Redux!
